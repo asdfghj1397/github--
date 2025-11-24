@@ -1,5 +1,12 @@
 <div align="center"><a name="readme-top"></a>
 
+
+
+
+
+先 下载 油猴桃差价，在点击 gitub源 会弹出安装差距界面
+
+
 # [GitHub 中文化插件][github-project-link]
 
 > 让 GitHub 界面全面中文化 | 源自 [52cik/github-hans](https://github.com/52cik/github-hans)
